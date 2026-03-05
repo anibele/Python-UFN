@@ -5,6 +5,7 @@ PYTHON é:
 - uma linguagem não tipada
 
 categorias de instruções:
+
     -intruções primitivas:
         - print
         - input
